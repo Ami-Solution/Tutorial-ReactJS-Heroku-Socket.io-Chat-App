@@ -30,7 +30,12 @@ Then you can run it using
 * ``` heroku login ``` herokuapp cli login
 * ``` heroku create ``` create randomized directory name from heroku cli
 * ``` git push heroku master ``` git push from heroku orig to heroku master
-* ``` open heroku: https://vast-plateau-73182.herokuapp.com ``` git 
+* ``` open heroku: https://vast-plateau-73182.herokuapp.com ``` open chat react socket [here:](https://vast-plateau-73182.herokuapp.com) 
 * ``` git push origin master  ``` git push origin to github
+
+###Github tutorial reference:
+[https://github.com/Ami-Solution/Tutorial-ReactJS-Heroku-Socket.io-Chat-App](https://github.com/Ami-Solution/Tutorial-ReactJS-Heroku-Socket.io-Chat-App)
+and 
+[https://Ami-Solution.github.io/Tutorial-ReactJS-Heroku-Socket.io-Chat-App](https://Ami-Solution.github.io/Tutorial-ReactJS-Heroku-Socket.io-Chat-App)
 
 
