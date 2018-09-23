@@ -10,7 +10,8 @@ First you'll need to fork or download the respository.
 Then in terminal you'll install the node modules
 
 ``` npm install ```
-npm install express --save 
+- npm install express --save 
+- npm run build
 
 Then you can run it using 
 
