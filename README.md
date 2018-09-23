@@ -26,8 +26,8 @@ Then you can run it using
 * ``` vim .gitignore ``` edit .gitignore and add node_modules/* to exclude node_modules from being pushed
 * ``` git status ``` git status
 * ``` git add . ``` git add .
-* ``` git commit -m "new react socket chat heroku deployment" ``` git commit
-* ``` npm run build ``` npm 
+* ``` git commit -m "new react socket chat heroku deployment" ``` git commit -m "your update"
+* ``` npm run build ``` npm run build
 * ``` heroku login ``` herokuapp cli login
 * ``` heroku create ``` create randomized directory name from heroku cli
 * ``` git push heroku master ``` git push from heroku orig to heroku master
