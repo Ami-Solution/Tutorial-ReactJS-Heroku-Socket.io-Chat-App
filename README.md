@@ -2,6 +2,7 @@
 
 
 This is the code from a tutorial done on youtube [here](https://www.youtube.com/playlist?list=PLfUtdEcvGHFHdOYFXj4cY6ZIFkSp6MOuY).
+Chat is live at https://vast-plateau-73182.herokuapp.com
 
 ###Getting Started
 
@@ -33,9 +34,10 @@ Then you can run it using
 * ``` open heroku: https://vast-plateau-73182.herokuapp.com ``` open chat react socket [here:](https://vast-plateau-73182.herokuapp.com) 
 * ``` git push origin master  ``` git push origin to github
 
-###Github tutorial reference:
-[https://github.com/Ami-Solution/Tutorial-ReactJS-Heroku-Socket.io-Chat-App](https://github.com/Ami-Solution/Tutorial-ReactJS-Heroku-Socket.io-Chat-App)
-and 
-[https://Ami-Solution.github.io/Tutorial-ReactJS-Heroku-Socket.io-Chat-App](https://Ami-Solution.github.io/Tutorial-ReactJS-Heroku-Socket.io-Chat-App)
+###Github tutorial reference
+
+- [https://github.com/Ami-Solution/Tutorial-ReactJS-Heroku-Socket.io-Chat-App](https://github.com/Ami-Solution/Tutorial-ReactJS-Heroku-Socket.io-Chat-App)
+
+- [https://Ami-Solution.github.io/Tutorial-ReactJS-Heroku-Socket.io-Chat-App](https://Ami-Solution.github.io/Tutorial-ReactJS-Heroku-Socket.io-Chat-App)
 
 
