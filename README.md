@@ -1,4 +1,4 @@
-##ReactJS and Socket.io Chat App Tutorial
+##ReactJS Heroku and Socket.io Chat App Tutorial
 
 
 This is the code from a tutorial done on youtube [here](https://www.youtube.com/playlist?list=PLfUtdEcvGHFHdOYFXj4cY6ZIFkSp6MOuY).
@@ -10,6 +10,7 @@ First you'll need to fork or download the respository.
 Then in terminal you'll install the node modules
 
 ``` npm install ```
+npm install express --save 
 
 Then you can run it using 
 
